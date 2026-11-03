@@ -1,0 +1,17 @@
+Small_Business_Intelligence_AI_Dashboard/
+├── Project Proposal/
+│   ├── PROJECT_REPORT.md
+│   ├── PRESENTATION_SCRIPT.md
+│   └── project_proposal.md
+├── Data Collection/
+│   ├── sample sales CSV and Excel test datasets
+│   └── data_collection.py
+├── Data Cleaning/
+│   └── data_cleaning.py
+├── Data Analysis/
+│   └── data_analysis.py
+├── Data Visualization/
+│   └── visualizations.py
+└── Interactive Dashboard/
+    ├── app.py
+    └── dashboard_components/

@@ -1,0 +1,301 @@
+﻿Order_ID,Order_Date,Customer_ID,Product,Category,City,State,Sales_Channel,Quantity,Unit_Price_INR,Discount_Percent,Revenue_INR,Total_Cost_INR,Profit_INR,Payment_Method,Order_Status,Shipping_Days
+ORD0014,2025-01-02,CUST039,Notebook Set,Stationery,Warangal,Telangana,Mobile App,5,249,0,1245.0,450,795.0,Credit Card,Returned,6
+ORD0252,2025-01-04,CUST068,Backpack,Lifestyle,Hyderabad,Telangana,Marketplace,5,1799,10,8095.5,4750,3345.5,Debit Card,Delivered,1
+ORD0013,2025-01-06,CUST038,Bluetooth Speaker,Electronics,Pune,Maharashtra,Store,5,1499,5,7120.25,4250,2870.25,Credit Card,Delivered,8
+ORD0266,2025-01-07,CUST072,Notebook Set,Stationery,Warangal,Telangana,Mobile App,4,249,10,896.4,360,536.4,Credit Card,Returned,7
+ORD0220,2025-01-08,CUST079,Office Chair,Furniture,Chennai,Tamil Nadu,Store,3,5499,15,14022.45,10800,3222.45,Cash on Delivery,Delivered,9
+ORD0025,2025-01-08,CUST062,Bluetooth Speaker,Electronics,Mumbai,Maharashtra,Mobile App,2,1499,0,2998.0,1700,1298.0,Cash on Delivery,Shipped,1
+ORD0205,2025-01-09,CUST040,Office Chair,Furniture,Mumbai,Maharashtra,Website,3,5499,0,16497.0,10800,5697.0,Cash on Delivery,Cancelled,5
+ORD0062,2025-01-11,CUST086,Keyboard,Electronics,Bengaluru,Karnataka,Website,2,999,0,1998.0,1120,878.0,Credit Card,Shipped,8
+ORD0163,2025-01-14,CUST050,Desk Lamp,Furniture,Pune,Maharashtra,Website,1,1299,10,1169.1,700,469.1,Debit Card,Delivered,4
+ORD0058,2025-01-15,CUST017,Desk Lamp,Furniture,Bengaluru,Karnataka,Website,3,1299,10,3507.3,2100,1407.3,Cash on Delivery,Shipped,1
+ORD0164,2025-01-15,CUST005,Office Chair,Furniture,Bengaluru,Karnataka,Marketplace,1,5499,5,5224.05,3600,1624.05,Cash on Delivery,Delivered,3
+ORD0002,2025-01-17,CUST078,Wireless Mouse,Electronics,Chennai,Tamil Nadu,Website,1,599,0,599.0,320,279.0,Credit Card,Cancelled,9
+ORD0203,2025-01-20,CUST078,USB-C Cable,Accessories,Delhi,Delhi,Mobile App,3,299,10,807.3,330,477.3,Debit Card,Delivered,6
+ORD0043,2025-01-20,CUST041,Bluetooth Speaker,Electronics,Pune,Maharashtra,Store,5,1499,10,6745.5,4250,2495.5,UPI,Returned,7
+ORD0218,2025-01-20,CUST037,Wireless Mouse,Electronics,Warangal,Telangana,Store,3,599,15,1527.45,960,567.45,Cash on Delivery,Delivered,3
+ORD0141,2025-01-22,CUST074,Desk Lamp,Furniture,Warangal,Telangana,Store,1,1299,10,1169.1,700,469.1,Cash on Delivery,Delivered,7
+ORD0171,2025-01-23,CUST060,Office Chair,Furniture,Bengaluru,Karnataka,Store,5,5499,5,26120.25,18000,8120.25,Credit Card,Returned,3
+ORD0005,2025-01-23,CUST071,Water Bottle,Lifestyle,Mumbai,Maharashtra,Marketplace,5,499,0,2495.0,900,1595.0,Debit Card,Delivered,4
+ORD0174,2025-01-25,CUST052,Office Chair,Furniture,Pune,Maharashtra,Store,3,5499,0,16497.0,10800,5697.0,Cash on Delivery,Shipped,6
+ORD0131,2025-01-27,CUST074,Notebook Set,Stationery,Pune,Maharashtra,Mobile App,5,249,5,1182.75,450,732.75,Credit Card,Delivered,8
+ORD0136,2025-01-27,CUST011,USB-C Cable,Accessories,Hyderabad,Telangana,Marketplace,2,299,15,508.3,220,288.3,Cash on Delivery,Returned,7
+ORD0076,2025-01-28,CUST002,Backpack,Lifestyle,Delhi,Delhi,Marketplace,3,1799,0,5397.0,2850,2547.0,Cash on Delivery,Delivered,8
+ORD0103,2025-01-29,CUST032,Notebook Set,Stationery,Mumbai,Maharashtra,Store,3,249,5,709.65,270,439.65,Credit Card,Delivered,3
+ORD0056,2025-02-01,CUST049,Laptop Stand,Accessories,Hyderabad,Telangana,Store,4,899,10,3236.4,1680,1556.4,UPI,Cancelled,6
+ORD0172,2025-02-02,CUST026,Water Bottle,Lifestyle,Chennai,Tamil Nadu,Website,1,499,5,474.05,180,294.05,Debit Card,Delivered,5
+ORD0045,2025-02-05,CUST039,Office Chair,Furniture,Warangal,Telangana,Marketplace,5,5499,5,26120.25,18000,8120.25,Cash on Delivery,Returned,6
+ORD0120,2025-02-05,CUST043,Backpack,Lifestyle,Chennai,Tamil Nadu,Mobile App,2,1799,15,3058.3,1900,1158.3,UPI,Delivered,5
+ORD0031,2025-02-07,CUST069,Wireless Mouse,Electronics,Warangal,Telangana,Mobile App,4,599,15,2036.6,1280,756.6,Debit Card,Delivered,3
+ORD0078,2025-02-07,CUST039,Keyboard,Electronics,Bengaluru,Karnataka,Website,1,999,0,999.0,560,439.0,Credit Card,Cancelled,2
+ORD0148,2025-02-07,CUST048,Notebook Set,Stationery,Hyderabad,Telangana,Marketplace,4,249,10,896.4,360,536.4,UPI,Delivered,2
+ORD0157,2025-02-09,CUST044,Notebook Set,Stationery,Hyderabad,Telangana,Mobile App,1,249,15,211.65,90,121.65,Cash on Delivery,Returned,3
+ORD0054,2025-02-09,CUST070,Notebook Set,Stationery,Pune,Maharashtra,Website,2,249,5,473.1,180,293.1,Credit Card,Delivered,3
+ORD0059,2025-02-12,CUST034,Desk Lamp,Furniture,Bengaluru,Karnataka,Store,2,1299,10,2338.2,1400,938.2,Debit Card,Delivered,4
+ORD0068,2025-02-14,CUST079,Notebook Set,Stationery,Delhi,Delhi,Store,4,249,0,996.0,360,636.0,Debit Card,Cancelled,1
+ORD0110,2025-02-16,CUST017,Notebook Set,Stationery,Bengaluru,Karnataka,Marketplace,3,249,10,672.3,270,402.3,Debit Card,Delivered,3
+ORD0153,2025-02-18,CUST085,Backpack,Lifestyle,Vijayawada,Andhra Pradesh,Mobile App,4,1799,5,6836.2,3800,3036.2,Debit Card,Returned,2
+ORD0022,2025-02-19,CUST094,Desk Lamp,Furniture,Mumbai,Maharashtra,Website,3,1299,10,3507.3,2100,1407.3,UPI,Shipped,1
+ORD0099,2025-02-21,CUST084,Backpack,Lifestyle,Bengaluru,Karnataka,Mobile App,4,1799,0,7196.0,3800,3396.0,UPI,Shipped,8
+ORD0235,2025-02-21,CUST095,Keyboard,Electronics,Hyderabad,Telangana,Website,1,999,10,899.1,560,339.1,Cash on Delivery,Delivered,8
+ORD0215,2025-02-21,CUST018,Desk Lamp,Furniture,Warangal,Telangana,Website,3,1299,10,3507.3,2100,1407.3,Credit Card,Returned,7
+ORD0277,2025-02-24,CUST067,Wireless Mouse,Electronics,Chennai,Tamil Nadu,Mobile App,1,599,5,569.05,320,249.05,Cash on Delivery,Cancelled,6
+ORD0107,2025-02-24,CUST038,Laptop Stand,Accessories,Pune,Maharashtra,Marketplace,4,899,15,3056.6,1680,1376.6,UPI,Cancelled,7
+ORD0051,2025-02-24,CUST072,Desk Lamp,Furniture,Delhi,Delhi,Mobile App,2,1299,0,2598.0,1400,1198.0,UPI,Delivered,8
+ORD0214,2025-02-25,CUST086,Keyboard,Electronics,Chennai,Tamil Nadu,Mobile App,5,999,0,4995.0,2800,2195.0,Credit Card,Delivered,1
+ORD0138,2025-02-26,CUST029,Notebook Set,Stationery,Vijayawada,Andhra Pradesh,Store,5,249,10,1120.5,450,670.5,UPI,Delivered,1
+ORD0115,2025-03-01,CUST015,USB-C Cable,Accessories,Vijayawada,Andhra Pradesh,Website,1,299,0,299.0,110,189.0,Credit Card,Shipped,9
+ORD0090,2025-03-01,CUST007,Desk Lamp,Furniture,Delhi,Delhi,Mobile App,5,1299,0,6495.0,3500,2995.0,Debit Card,Shipped,8
+ORD0232,2025-03-02,CUST029,USB-C Cable,Accessories,Bengaluru,Karnataka,Website,5,299,10,1345.5,550,795.5,UPI,Returned,5
+ORD0029,2025-03-03,CUST011,Keyboard,Electronics,Hyderabad,Telangana,Store,2,999,15,1698.3,1120,578.3,Debit Card,Cancelled,5
+ORD0092,2025-03-04,CUST071,Wireless Mouse,Electronics,Bengaluru,Karnataka,Website,5,599,0,2995.0,1600,1395.0,Cash on Delivery,Delivered,2
+ORD0126,2025-03-06,CUST077,Notebook Set,Stationery,Pune,Maharashtra,Marketplace,5,249,15,1058.25,450,608.25,Cash on Delivery,Shipped,9
+ORD0017,2025-03-06,CUST068,USB-C Cable,Accessories,Bengaluru,Karnataka,Store,4,299,15,1016.6,440,576.6,Credit Card,Delivered,9
+ORD0195,2025-03-08,CUST031,Office Chair,Furniture,Warangal,Telangana,Store,5,5499,15,23370.75,18000,5370.75,UPI,Delivered,5
+ORD0052,2025-03-10,CUST079,Water Bottle,Lifestyle,Pune,Maharashtra,Store,5,499,15,2120.75,900,1220.75,Cash on Delivery,Shipped,3
+ORD0290,2025-03-11,CUST088,Laptop Stand,Accessories,Delhi,Delhi,Store,4,899,15,3056.6,1680,1376.6,Cash on Delivery,Shipped,8
+ORD0231,2025-03-11,CUST049,Desk Lamp,Furniture,Delhi,Delhi,Website,3,1299,10,3507.3,2100,1407.3,Credit Card,Shipped,6
+ORD0116,2025-03-11,CUST094,Desk Lamp,Furniture,Mumbai,Maharashtra,Mobile App,4,1299,5,4936.2,2800,2136.2,Cash on Delivery,Cancelled,2
+ORD0084,2025-03-14,CUST073,Bluetooth Speaker,Electronics,Vijayawada,Andhra Pradesh,Marketplace,1,1499,0,1499.0,850,649.0,Cash on Delivery,Cancelled,2
+ORD0298,2025-03-16,CUST074,Office Chair,Furniture,Delhi,Delhi,Marketplace,2,5499,10,9898.2,7200,2698.2,Cash on Delivery,Delivered,7
+ORD0121,2025-03-16,CUST085,USB-C Cable,Accessories,Bengaluru,Karnataka,Website,5,299,5,1420.25,550,870.25,Credit Card,Delivered,1
+ORD0227,2025-03-18,CUST088,USB-C Cable,Accessories,Delhi,Delhi,Mobile App,3,299,15,762.45,330,432.45,Cash on Delivery,Delivered,2
+ORD0208,2025-03-19,CUST094,Desk Lamp,Furniture,Delhi,Delhi,Website,2,1299,10,2338.2,1400,938.2,Credit Card,Returned,9
+ORD0263,2025-03-20,CUST014,Desk Lamp,Furniture,Pune,Maharashtra,Website,2,1299,10,2338.2,1400,938.2,UPI,Delivered,5
+ORD0004,2025-03-21,CUST013,Laptop Stand,Accessories,Warangal,Telangana,Marketplace,3,899,0,2697.0,1260,1437.0,Debit Card,Shipped,5
+ORD0162,2025-03-24,CUST012,Notebook Set,Stationery,Bengaluru,Karnataka,Mobile App,4,249,15,846.6,360,486.6,Cash on Delivery,Shipped,6
+ORD0015,2025-03-24,CUST003,Backpack,Lifestyle,Pune,Maharashtra,Website,5,1799,0,8995.0,4750,4245.0,Debit Card,Shipped,5
+ORD0158,2025-03-25,CUST053,USB-C Cable,Accessories,Delhi,Delhi,Marketplace,5,299,0,1495.0,550,945.0,Credit Card,Delivered,8
+ORD0204,2025-03-25,CUST066,Desk Lamp,Furniture,Pune,Maharashtra,Store,5,1299,5,6170.25,3500,2670.25,Debit Card,Cancelled,8
+ORD0026,2025-03-26,CUST037,Desk Lamp,Furniture,Vijayawada,Andhra Pradesh,Store,1,1299,10,1169.1,700,469.1,Cash on Delivery,Shipped,3
+ORD0189,2025-03-26,CUST037,USB-C Cable,Accessories,Pune,Maharashtra,Website,3,299,0,897.0,330,567.0,Debit Card,Cancelled,4
+ORD0267,2025-03-28,CUST019,USB-C Cable,Accessories,Vijayawada,Andhra Pradesh,Website,3,299,5,852.15,330,522.15,Credit Card,Shipped,7
+ORD0191,2025-03-29,CUST011,Keyboard,Electronics,Hyderabad,Telangana,Website,5,999,5,4745.25,2800,1945.25,Debit Card,Delivered,4
+ORD0087,2025-03-31,CUST075,Water Bottle,Lifestyle,Vijayawada,Andhra Pradesh,Store,5,499,10,2245.5,900,1345.5,Cash on Delivery,Delivered,2
+ORD0104,2025-03-31,CUST075,Bluetooth Speaker,Electronics,Chennai,Tamil Nadu,Mobile App,5,1499,10,6745.5,4250,2495.5,Credit Card,Shipped,8
+ORD0282,2025-03-31,CUST030,Backpack,Lifestyle,Mumbai,Maharashtra,Store,2,1799,5,3418.1,1900,1518.1,Credit Card,Shipped,3
+ORD0146,2025-04-01,CUST073,Water Bottle,Lifestyle,Delhi,Delhi,Marketplace,4,499,15,1696.6,720,976.6,Debit Card,Returned,3
+ORD0271,2025-04-01,CUST032,Desk Lamp,Furniture,Delhi,Delhi,Marketplace,3,1299,5,3702.15,2100,1602.15,Cash on Delivery,Cancelled,5
+ORD0024,2025-04-04,CUST071,Notebook Set,Stationery,Warangal,Telangana,Website,4,249,0,996.0,360,636.0,UPI,Shipped,9
+ORD0175,2025-04-06,CUST094,Water Bottle,Lifestyle,Vijayawada,Andhra Pradesh,Store,4,499,5,1896.2,720,1176.2,UPI,Delivered,7
+ORD0097,2025-04-07,CUST006,Laptop Stand,Accessories,Chennai,Tamil Nadu,Marketplace,5,899,10,4045.5,2100,1945.5,Cash on Delivery,Shipped,7
+ORD0027,2025-04-08,CUST041,Notebook Set,Stationery,Hyderabad,Telangana,Website,2,249,0,498.0,180,318.0,UPI,Returned,8
+ORD0285,2025-04-11,CUST082,Water Bottle,Lifestyle,Delhi,Delhi,Marketplace,1,499,5,474.05,180,294.05,Cash on Delivery,Cancelled,7
+ORD0139,2025-04-15,CUST042,Notebook Set,Stationery,Vijayawada,Andhra Pradesh,Website,2,249,0,498.0,180,318.0,UPI,Delivered,8
+ORD0030,2025-04-15,CUST086,Office Chair,Furniture,Mumbai,Maharashtra,Marketplace,2,5499,5,10448.1,7200,3248.1,Cash on Delivery,Delivered,6
+ORD0209,2025-04-17,CUST023,Backpack,Lifestyle,Mumbai,Maharashtra,Store,3,1799,10,4857.3,2850,2007.3,Debit Card,Delivered,9
+ORD0038,2025-04-18,CUST020,Laptop Stand,Accessories,Mumbai,Maharashtra,Mobile App,1,899,5,854.05,420,434.05,Credit Card,Cancelled,3
+ORD0257,2025-04-19,CUST088,Keyboard,Electronics,Hyderabad,Telangana,Marketplace,4,999,5,3796.2,2240,1556.2,UPI,Delivered,3
+ORD0135,2025-04-21,CUST048,Desk Lamp,Furniture,Pune,Maharashtra,Marketplace,4,1299,10,4676.4,2800,1876.4,Debit Card,Delivered,2
+ORD0251,2025-04-22,CUST082,Backpack,Lifestyle,Hyderabad,Telangana,Store,4,1799,5,6836.2,3800,3036.2,Cash on Delivery,Cancelled,1
+ORD0124,2025-04-24,CUST083,Keyboard,Electronics,Vijayawada,Andhra Pradesh,Website,1,999,15,849.15,560,289.15,UPI,Shipped,8
+ORD0144,2025-04-24,CUST066,Office Chair,Furniture,Warangal,Telangana,Mobile App,2,5499,0,10998.0,7200,3798.0,Debit Card,Cancelled,6
+ORD0132,2025-04-25,CUST036,Bluetooth Speaker,Electronics,Pune,Maharashtra,Mobile App,3,1499,15,3822.45,2550,1272.45,Cash on Delivery,Delivered,9
+ORD0185,2025-04-25,CUST004,Bluetooth Speaker,Electronics,Chennai,Tamil Nadu,Marketplace,2,1499,0,2998.0,1700,1298.0,Debit Card,Shipped,8
+ORD0093,2025-04-26,CUST092,Bluetooth Speaker,Electronics,Bengaluru,Karnataka,Marketplace,4,1499,0,5996.0,3400,2596.0,Debit Card,Shipped,7
+ORD0019,2025-04-26,CUST029,Bluetooth Speaker,Electronics,Chennai,Tamil Nadu,Website,3,1499,0,4497.0,2550,1947.0,UPI,Cancelled,1
+ORD0041,2025-04-27,CUST036,Laptop Stand,Accessories,Mumbai,Maharashtra,Website,1,899,0,899.0,420,479.0,Debit Card,Delivered,6
+ORD0009,2025-04-28,CUST028,Wireless Mouse,Electronics,Vijayawada,Andhra Pradesh,Marketplace,3,599,10,1617.3,960,657.3,Credit Card,Delivered,8
+ORD0020,2025-04-28,CUST031,Bluetooth Speaker,Electronics,Warangal,Telangana,Marketplace,1,1499,5,1424.05,850,574.05,Cash on Delivery,Cancelled,4
+ORD0055,2025-04-29,CUST053,Desk Lamp,Furniture,Warangal,Telangana,Marketplace,2,1299,0,2598.0,1400,1198.0,Cash on Delivery,Shipped,7
+ORD0236,2025-04-30,CUST038,Backpack,Lifestyle,Bengaluru,Karnataka,Mobile App,2,1799,0,3598.0,1900,1698.0,Debit Card,Cancelled,6
+ORD0049,2025-05-01,CUST006,Notebook Set,Stationery,Bengaluru,Karnataka,Mobile App,2,249,0,498.0,180,318.0,Cash on Delivery,Delivered,2
+ORD0118,2025-05-01,CUST051,Office Chair,Furniture,Pune,Maharashtra,Marketplace,1,5499,5,5224.05,3600,1624.05,Credit Card,Delivered,2
+ORD0237,2025-05-02,CUST039,Notebook Set,Stationery,Chennai,Tamil Nadu,Marketplace,2,249,15,423.3,180,243.3,UPI,Shipped,9
+ORD0016,2025-05-03,CUST094,Wireless Mouse,Electronics,Warangal,Telangana,Store,2,599,15,1018.3,640,378.3,UPI,Delivered,9
+ORD0167,2025-05-03,CUST064,Desk Lamp,Furniture,Warangal,Telangana,Website,5,1299,10,5845.5,3500,2345.5,Credit Card,Delivered,3
+ORD0274,2025-05-04,CUST058,Notebook Set,Stationery,Mumbai,Maharashtra,Store,2,249,10,448.2,180,268.2,Cash on Delivery,Delivered,9
+ORD0071,2025-05-04,CUST038,Water Bottle,Lifestyle,Hyderabad,Telangana,Mobile App,4,499,10,1796.4,720,1076.4,Cash on Delivery,Delivered,4
+ORD0193,2025-05-06,CUST008,Desk Lamp,Furniture,Warangal,Telangana,Mobile App,3,1299,10,3507.3,2100,1407.3,Cash on Delivery,Returned,7
+ORD0170,2025-05-10,CUST094,Wireless Mouse,Electronics,Pune,Maharashtra,Website,3,599,0,1797.0,960,837.0,Debit Card,Delivered,3
+ORD0254,2025-05-10,CUST052,Office Chair,Furniture,Warangal,Telangana,Store,3,5499,10,14847.3,10800,4047.3,Credit Card,Delivered,4
+ORD0241,2025-05-11,CUST012,Laptop Stand,Accessories,Delhi,Delhi,Mobile App,3,899,0,2697.0,1260,1437.0,UPI,Delivered,5
+ORD0111,2025-05-12,CUST010,Water Bottle,Lifestyle,Warangal,Telangana,Mobile App,3,499,5,1422.15,540,882.15,Credit Card,Shipped,7
+ORD0222,2025-05-14,CUST039,Desk Lamp,Furniture,Vijayawada,Andhra Pradesh,Website,2,1299,10,2338.2,1400,938.2,Debit Card,Delivered,6
+ORD0100,2025-05-16,CUST087,Office Chair,Furniture,Warangal,Telangana,Store,5,5499,10,24745.5,18000,6745.5,Debit Card,Delivered,8
+ORD0081,2025-05-16,CUST010,Bluetooth Speaker,Electronics,Bengaluru,Karnataka,Mobile App,2,1499,0,2998.0,1700,1298.0,UPI,Cancelled,7
+ORD0200,2025-05-16,CUST007,Office Chair,Furniture,Hyderabad,Telangana,Mobile App,4,5499,5,20896.2,14400,6496.2,Debit Card,Shipped,9
+ORD0073,2025-05-19,CUST025,Notebook Set,Stationery,Warangal,Telangana,Marketplace,3,249,0,747.0,270,477.0,UPI,Returned,9
+ORD0108,2025-05-21,CUST030,Wireless Mouse,Electronics,Delhi,Delhi,Marketplace,5,599,0,2995.0,1600,1395.0,Credit Card,Delivered,4
+ORD0178,2025-05-21,CUST087,Wireless Mouse,Electronics,Pune,Maharashtra,Mobile App,1,599,10,539.1,320,219.1,UPI,Cancelled,3
+ORD0234,2025-05-22,CUST003,Laptop Stand,Accessories,Mumbai,Maharashtra,Mobile App,1,899,0,899.0,420,479.0,Credit Card,Cancelled,2
+ORD0268,2025-05-22,CUST033,Desk Lamp,Furniture,Warangal,Telangana,Mobile App,3,1299,10,3507.3,2100,1407.3,Cash on Delivery,Delivered,4
+ORD0152,2025-05-25,CUST083,Desk Lamp,Furniture,Hyderabad,Telangana,Marketplace,4,1299,5,4936.2,2800,2136.2,UPI,Returned,6
+ORD0199,2025-05-25,CUST002,Water Bottle,Lifestyle,Vijayawada,Andhra Pradesh,Website,5,499,10,2245.5,900,1345.5,Cash on Delivery,Cancelled,3
+ORD0289,2025-05-28,CUST007,USB-C Cable,Accessories,Delhi,Delhi,Marketplace,2,299,5,568.1,220,348.1,UPI,Cancelled,8
+ORD0211,2025-05-28,CUST072,Laptop Stand,Accessories,Delhi,Delhi,Marketplace,4,899,5,3416.2,1680,1736.2,Debit Card,Delivered,2
+ORD0201,2025-05-28,CUST036,Bluetooth Speaker,Electronics,Delhi,Delhi,Website,4,1499,15,5096.6,3400,1696.6,Credit Card,Cancelled,2
+ORD0142,2025-05-29,CUST080,Bluetooth Speaker,Electronics,Pune,Maharashtra,Store,4,1499,0,5996.0,3400,2596.0,Debit Card,Delivered,2
+ORD0168,2025-05-30,CUST074,Desk Lamp,Furniture,Pune,Maharashtra,Store,1,1299,15,1104.15,700,404.15,Credit Card,Delivered,2
+ORD0075,2025-06-01,CUST091,Laptop Stand,Accessories,Vijayawada,Andhra Pradesh,Mobile App,3,899,0,2697.0,1260,1437.0,Debit Card,Delivered,1
+ORD0294,2025-06-02,CUST057,Wireless Mouse,Electronics,Pune,Maharashtra,Website,4,599,5,2276.2,1280,996.2,Credit Card,Delivered,4
+ORD0057,2025-06-02,CUST029,Desk Lamp,Furniture,Chennai,Tamil Nadu,Marketplace,4,1299,15,4416.6,2800,1616.6,Cash on Delivery,Shipped,8
+ORD0033,2025-06-03,CUST071,Bluetooth Speaker,Electronics,Warangal,Telangana,Mobile App,2,1499,5,2848.1,1700,1148.1,Debit Card,Delivered,5
+ORD0281,2025-06-03,CUST014,Wireless Mouse,Electronics,Pune,Maharashtra,Mobile App,1,599,0,599.0,320,279.0,Credit Card,Returned,9
+ORD0255,2025-06-03,CUST049,Bluetooth Speaker,Electronics,Mumbai,Maharashtra,Store,1,1499,0,1499.0,850,649.0,UPI,Shipped,1
+ORD0072,2025-06-06,CUST071,Keyboard,Electronics,Pune,Maharashtra,Marketplace,3,999,10,2697.3,1680,1017.3,Debit Card,Shipped,8
+ORD0287,2025-06-10,CUST048,Bluetooth Speaker,Electronics,Warangal,Telangana,Mobile App,2,1499,5,2848.1,1700,1148.1,Cash on Delivery,Delivered,7
+ORD0246,2025-06-10,CUST019,Desk Lamp,Furniture,Chennai,Tamil Nadu,Website,1,1299,15,1104.15,700,404.15,Debit Card,Returned,9
+ORD0258,2025-06-11,CUST051,Wireless Mouse,Electronics,Bengaluru,Karnataka,Website,2,599,15,1018.3,640,378.3,Debit Card,Returned,3
+ORD0150,2025-06-14,CUST058,Keyboard,Electronics,Bengaluru,Karnataka,Website,4,999,15,3396.6,2240,1156.6,Debit Card,Delivered,2
+ORD0197,2025-06-17,CUST066,Keyboard,Electronics,Bengaluru,Karnataka,Store,3,999,0,2997.0,1680,1317.0,Cash on Delivery,Shipped,5
+ORD0221,2025-06-17,CUST062,Bluetooth Speaker,Electronics,Bengaluru,Karnataka,Marketplace,4,1499,0,5996.0,3400,2596.0,Credit Card,Delivered,1
+ORD0243,2025-06-20,CUST016,Notebook Set,Stationery,Chennai,Tamil Nadu,Store,1,249,0,249.0,90,159.0,Credit Card,Returned,4
+ORD0270,2025-06-21,CUST078,Desk Lamp,Furniture,Vijayawada,Andhra Pradesh,Mobile App,5,1299,0,6495.0,3500,2995.0,Cash on Delivery,Delivered,6
+ORD0106,2025-06-26,CUST039,Keyboard,Electronics,Vijayawada,Andhra Pradesh,Mobile App,3,999,10,2697.3,1680,1017.3,Cash on Delivery,Shipped,8
+ORD0230,2025-06-26,CUST005,Bluetooth Speaker,Electronics,Warangal,Telangana,Marketplace,5,1499,0,7495.0,4250,3245.0,Cash on Delivery,Shipped,3
+ORD0260,2025-06-27,CUST044,Wireless Mouse,Electronics,Chennai,Tamil Nadu,Store,1,599,10,539.1,320,219.1,Debit Card,Delivered,1
+ORD0213,2025-06-27,CUST069,Water Bottle,Lifestyle,Chennai,Tamil Nadu,Marketplace,3,499,10,1347.3,540,807.3,Debit Card,Delivered,3
+ORD0032,2025-06-28,CUST057,Bluetooth Speaker,Electronics,Vijayawada,Andhra Pradesh,Marketplace,2,1499,5,2848.1,1700,1148.1,UPI,Delivered,9
+ORD0134,2025-06-29,CUST019,Wireless Mouse,Electronics,Mumbai,Maharashtra,Website,2,599,0,1198.0,640,558.0,UPI,Delivered,9
+ORD0249,2025-06-30,CUST070,USB-C Cable,Accessories,Delhi,Delhi,Website,2,299,15,508.3,220,288.3,UPI,Delivered,2
+ORD0210,2025-07-01,CUST036,Notebook Set,Stationery,Chennai,Tamil Nadu,Marketplace,5,249,10,1120.5,450,670.5,Credit Card,Delivered,5
+ORD0122,2025-07-03,CUST034,Laptop Stand,Accessories,Hyderabad,Telangana,Website,5,899,5,4270.25,2100,2170.25,Credit Card,Delivered,7
+ORD0245,2025-07-04,CUST061,Backpack,Lifestyle,Warangal,Telangana,Marketplace,4,1799,10,6476.4,3800,2676.4,Credit Card,Returned,6
+ORD0156,2025-07-05,CUST025,Notebook Set,Stationery,Pune,Maharashtra,Mobile App,2,249,0,498.0,180,318.0,Credit Card,Shipped,3
+ORD0011,2025-07-05,CUST007,Laptop Stand,Accessories,Delhi,Delhi,Website,2,899,15,1528.3,840,688.3,Credit Card,Delivered,3
+ORD0155,2025-07-12,CUST086,Office Chair,Furniture,Warangal,Telangana,Store,2,5499,15,9348.3,7200,2148.3,Debit Card,Returned,1
+ORD0242,2025-07-13,CUST076,Keyboard,Electronics,Warangal,Telangana,Mobile App,5,999,0,4995.0,2800,2195.0,Cash on Delivery,Delivered,4
+ORD0098,2025-07-17,CUST076,USB-C Cable,Accessories,Bengaluru,Karnataka,Marketplace,4,299,0,1196.0,440,756.0,UPI,Cancelled,8
+ORD0278,2025-07-20,CUST004,Water Bottle,Lifestyle,Bengaluru,Karnataka,Store,5,499,15,2120.75,900,1220.75,UPI,Delivered,5
+ORD0202,2025-07-21,CUST026,Office Chair,Furniture,Pune,Maharashtra,Store,3,5499,15,14022.45,10800,3222.45,UPI,Delivered,1
+ORD0272,2025-07-21,CUST070,Office Chair,Furniture,Chennai,Tamil Nadu,Mobile App,1,5499,15,4674.15,3600,1074.15,UPI,Cancelled,8
+ORD0010,2025-07-22,CUST072,Water Bottle,Lifestyle,Bengaluru,Karnataka,Marketplace,2,499,5,948.1,360,588.1,Cash on Delivery,Delivered,7
+ORD0244,2025-07-23,CUST060,Laptop Stand,Accessories,Vijayawada,Andhra Pradesh,Marketplace,5,899,5,4270.25,2100,2170.25,Debit Card,Shipped,5
+ORD0125,2025-07-25,CUST011,Desk Lamp,Furniture,Delhi,Delhi,Marketplace,1,1299,10,1169.1,700,469.1,Credit Card,Delivered,2
+ORD0046,2025-07-26,CUST086,Notebook Set,Stationery,Chennai,Tamil Nadu,Store,5,249,0,1245.0,450,795.0,Credit Card,Shipped,5
+ORD0023,2025-07-26,CUST069,Office Chair,Furniture,Chennai,Tamil Nadu,Store,1,5499,0,5499.0,3600,1899.0,Credit Card,Delivered,7
+ORD0047,2025-07-27,CUST056,Backpack,Lifestyle,Vijayawada,Andhra Pradesh,Marketplace,1,1799,5,1709.05,950,759.05,Cash on Delivery,Delivered,8
+ORD0239,2025-07-29,CUST061,USB-C Cable,Accessories,Bengaluru,Karnataka,Mobile App,3,299,10,807.3,330,477.3,Credit Card,Cancelled,5
+ORD0039,2025-07-31,CUST095,Wireless Mouse,Electronics,Mumbai,Maharashtra,Mobile App,2,599,5,1138.1,640,498.1,Debit Card,Returned,3
+ORD0095,2025-08-01,CUST093,Office Chair,Furniture,Hyderabad,Telangana,Marketplace,5,5499,5,26120.25,18000,8120.25,Cash on Delivery,Delivered,3
+ORD0279,2025-08-01,CUST044,Bluetooth Speaker,Electronics,Pune,Maharashtra,Store,1,1499,0,1499.0,850,649.0,Credit Card,Delivered,9
+ORD0003,2025-08-03,CUST021,Laptop Stand,Accessories,Vijayawada,Andhra Pradesh,Store,4,899,15,3056.6,1680,1376.6,Debit Card,Delivered,5
+ORD0140,2025-08-09,CUST072,USB-C Cable,Accessories,Chennai,Tamil Nadu,Marketplace,2,299,10,538.2,220,318.2,UPI,Cancelled,7
+ORD0102,2025-08-11,CUST039,Bluetooth Speaker,Electronics,Bengaluru,Karnataka,Website,1,1499,10,1349.1,850,499.1,UPI,Returned,6
+ORD0067,2025-08-11,CUST056,USB-C Cable,Accessories,Delhi,Delhi,Marketplace,5,299,5,1420.25,550,870.25,Debit Card,Shipped,4
+ORD0143,2025-08-12,CUST011,Bluetooth Speaker,Electronics,Mumbai,Maharashtra,Store,2,1499,10,2698.2,1700,998.2,Debit Card,Cancelled,6
+ORD0147,2025-08-14,CUST076,Bluetooth Speaker,Electronics,Vijayawada,Andhra Pradesh,Website,4,1499,10,5396.4,3400,1996.4,Debit Card,Delivered,9
+ORD0077,2025-08-14,CUST015,Office Chair,Furniture,Vijayawada,Andhra Pradesh,Website,2,5499,0,10998.0,7200,3798.0,Cash on Delivery,Shipped,8
+ORD0048,2025-08-15,CUST011,Laptop Stand,Accessories,Bengaluru,Karnataka,Marketplace,5,899,10,4045.5,2100,1945.5,Debit Card,Returned,2
+ORD0264,2025-08-16,CUST024,Office Chair,Furniture,Bengaluru,Karnataka,Store,3,5499,0,16497.0,10800,5697.0,Cash on Delivery,Delivered,9
+ORD0177,2025-08-17,CUST058,Keyboard,Electronics,Delhi,Delhi,Website,4,999,0,3996.0,2240,1756.0,Debit Card,Delivered,7
+ORD0096,2025-08-17,CUST070,Backpack,Lifestyle,Pune,Maharashtra,Store,4,1799,5,6836.2,3800,3036.2,Cash on Delivery,Cancelled,6
+ORD0196,2025-08-19,CUST050,Laptop Stand,Accessories,Hyderabad,Telangana,Store,2,899,0,1798.0,840,958.0,Credit Card,Delivered,3
+ORD0082,2025-08-19,CUST037,Keyboard,Electronics,Hyderabad,Telangana,Marketplace,4,999,5,3796.2,2240,1556.2,Cash on Delivery,Delivered,2
+ORD0299,2025-08-20,CUST048,Bluetooth Speaker,Electronics,Vijayawada,Andhra Pradesh,Store,1,1499,10,1349.1,850,499.1,Cash on Delivery,Returned,6
+ORD0060,2025-08-21,CUST033,Office Chair,Furniture,Vijayawada,Andhra Pradesh,Website,3,5499,10,14847.3,10800,4047.3,Cash on Delivery,Shipped,1
+ORD0128,2025-08-21,CUST041,Desk Lamp,Furniture,Pune,Maharashtra,Marketplace,4,1299,0,5196.0,2800,2396.0,Debit Card,Shipped,3
+ORD0007,2025-08-21,CUST086,Office Chair,Furniture,Pune,Maharashtra,Marketplace,2,5499,5,10448.1,7200,3248.1,UPI,Delivered,3
+ORD0119,2025-08-21,CUST043,Bluetooth Speaker,Electronics,Hyderabad,Telangana,Mobile App,2,1499,15,2548.3,1700,848.3,Credit Card,Delivered,4
+ORD0050,2025-08-22,CUST052,Desk Lamp,Furniture,Mumbai,Maharashtra,Mobile App,5,1299,0,6495.0,3500,2995.0,Credit Card,Shipped,1
+ORD0269,2025-08-23,CUST043,Bluetooth Speaker,Electronics,Hyderabad,Telangana,Store,2,1499,5,2848.1,1700,1148.1,Debit Card,Shipped,8
+ORD0160,2025-08-25,CUST026,Notebook Set,Stationery,Mumbai,Maharashtra,Mobile App,4,249,15,846.6,360,486.6,Debit Card,Delivered,1
+ORD0229,2025-08-25,CUST028,Notebook Set,Stationery,Vijayawada,Andhra Pradesh,Website,1,249,10,224.1,90,134.1,UPI,Delivered,7
+ORD0233,2025-08-26,CUST032,Backpack,Lifestyle,Mumbai,Maharashtra,Store,4,1799,15,6116.6,3800,2316.6,Debit Card,Delivered,3
+ORD0085,2025-08-28,CUST011,Notebook Set,Stationery,Delhi,Delhi,Website,4,249,5,946.2,360,586.2,Cash on Delivery,Shipped,6
+ORD0088,2025-08-29,CUST014,Office Chair,Furniture,Pune,Maharashtra,Mobile App,4,5499,5,20896.2,14400,6496.2,Debit Card,Returned,7
+ORD0053,2025-09-01,CUST063,Water Bottle,Lifestyle,Vijayawada,Andhra Pradesh,Mobile App,3,499,0,1497.0,540,957.0,Debit Card,Cancelled,8
+ORD0194,2025-09-05,CUST092,Water Bottle,Lifestyle,Bengaluru,Karnataka,Marketplace,2,499,5,948.1,360,588.1,Debit Card,Delivered,7
+ORD0094,2025-09-05,CUST025,Water Bottle,Lifestyle,Bengaluru,Karnataka,Mobile App,2,499,10,898.2,360,538.2,UPI,Shipped,5
+ORD0280,2025-09-05,CUST090,Office Chair,Furniture,Delhi,Delhi,Store,4,5499,0,21996.0,14400,7596.0,Debit Card,Returned,2
+ORD0137,2025-09-06,CUST066,Keyboard,Electronics,Vijayawada,Andhra Pradesh,Website,4,999,10,3596.4,2240,1356.4,Debit Card,Delivered,7
+ORD0291,2025-09-08,CUST038,USB-C Cable,Accessories,Hyderabad,Telangana,Website,1,299,15,254.15,110,144.15,Debit Card,Delivered,4
+ORD0117,2025-09-08,CUST048,Keyboard,Electronics,Hyderabad,Telangana,Mobile App,4,999,5,3796.2,2240,1556.2,Cash on Delivery,Returned,8
+ORD0069,2025-09-11,CUST034,Office Chair,Furniture,Chennai,Tamil Nadu,Marketplace,2,5499,10,9898.2,7200,2698.2,Debit Card,Delivered,5
+ORD0198,2025-09-12,CUST028,Wireless Mouse,Electronics,Delhi,Delhi,Marketplace,1,599,10,539.1,320,219.1,UPI,Delivered,1
+ORD0248,2025-09-13,CUST083,Backpack,Lifestyle,Delhi,Delhi,Store,3,1799,5,5127.15,2850,2277.15,Cash on Delivery,Returned,3
+ORD0028,2025-09-15,CUST009,Backpack,Lifestyle,Warangal,Telangana,Website,2,1799,0,3598.0,1900,1698.0,Credit Card,Delivered,7
+ORD0253,2025-09-15,CUST020,Desk Lamp,Furniture,Warangal,Telangana,Mobile App,2,1299,0,2598.0,1400,1198.0,Credit Card,Cancelled,9
+ORD0151,2025-09-16,CUST068,USB-C Cable,Accessories,Delhi,Delhi,Mobile App,1,299,0,299.0,110,189.0,Debit Card,Shipped,6
+ORD0219,2025-09-16,CUST021,Water Bottle,Lifestyle,Warangal,Telangana,Store,3,499,0,1497.0,540,957.0,Debit Card,Delivered,3
+ORD0066,2025-09-17,CUST056,Office Chair,Furniture,Delhi,Delhi,Marketplace,1,5499,10,4949.1,3600,1349.1,Cash on Delivery,Delivered,3
+ORD0275,2025-09-17,CUST069,Desk Lamp,Furniture,Pune,Maharashtra,Website,5,1299,0,6495.0,3500,2995.0,UPI,Returned,4
+ORD0228,2025-09-19,CUST054,Water Bottle,Lifestyle,Bengaluru,Karnataka,Store,1,499,10,449.1,180,269.1,UPI,Cancelled,9
+ORD0297,2025-09-21,CUST084,Bluetooth Speaker,Electronics,Hyderabad,Telangana,Mobile App,2,1499,10,2698.2,1700,998.2,Credit Card,Delivered,4
+ORD0173,2025-09-21,CUST083,Desk Lamp,Furniture,Vijayawada,Andhra Pradesh,Mobile App,5,1299,10,5845.5,3500,2345.5,Debit Card,Delivered,6
+ORD0182,2025-09-23,CUST091,Desk Lamp,Furniture,Vijayawada,Andhra Pradesh,Store,5,1299,0,6495.0,3500,2995.0,Credit Card,Delivered,5
+ORD0169,2025-09-26,CUST061,Office Chair,Furniture,Hyderabad,Telangana,Website,1,5499,15,4674.15,3600,1074.15,Cash on Delivery,Shipped,6
+ORD0226,2025-09-27,CUST015,Water Bottle,Lifestyle,Warangal,Telangana,Website,5,499,5,2370.25,900,1470.25,Credit Card,Cancelled,9
+ORD0123,2025-09-27,CUST066,Bluetooth Speaker,Electronics,Delhi,Delhi,Website,1,1499,10,1349.1,850,499.1,Cash on Delivery,Delivered,9
+ORD0181,2025-09-29,CUST015,Office Chair,Furniture,Vijayawada,Andhra Pradesh,Website,4,5499,5,20896.2,14400,6496.2,Credit Card,Delivered,8
+ORD0217,2025-10-01,CUST051,Wireless Mouse,Electronics,Bengaluru,Karnataka,Store,2,599,10,1078.2,640,438.2,Credit Card,Delivered,5
+ORD0008,2025-10-01,CUST082,Laptop Stand,Accessories,Mumbai,Maharashtra,Mobile App,2,899,10,1618.2,840,778.2,Debit Card,Delivered,1
+ORD0292,2025-10-03,CUST066,Notebook Set,Stationery,Delhi,Delhi,Website,2,249,10,448.2,180,268.2,UPI,Cancelled,5
+ORD0021,2025-10-04,CUST061,USB-C Cable,Accessories,Delhi,Delhi,Store,5,299,15,1270.75,550,720.75,Credit Card,Delivered,2
+ORD0061,2025-10-04,CUST006,Wireless Mouse,Electronics,Warangal,Telangana,Website,3,599,0,1797.0,960,837.0,Credit Card,Returned,4
+ORD0101,2025-10-05,CUST088,Wireless Mouse,Electronics,Chennai,Tamil Nadu,Marketplace,5,599,0,2995.0,1600,1395.0,Credit Card,Returned,2
+ORD0293,2025-10-06,CUST028,Office Chair,Furniture,Delhi,Delhi,Store,5,5499,0,27495.0,18000,9495.0,UPI,Cancelled,4
+ORD0166,2025-10-08,CUST031,Keyboard,Electronics,Warangal,Telangana,Marketplace,5,999,10,4495.5,2800,1695.5,UPI,Delivered,1
+ORD0036,2025-10-10,CUST089,Desk Lamp,Furniture,Warangal,Telangana,Mobile App,5,1299,0,6495.0,3500,2995.0,UPI,Delivered,6
+ORD0186,2025-10-10,CUST051,USB-C Cable,Accessories,Warangal,Telangana,Store,5,299,0,1495.0,550,945.0,Cash on Delivery,Delivered,7
+ORD0130,2025-10-12,CUST016,Wireless Mouse,Electronics,Pune,Maharashtra,Store,5,599,15,2545.75,1600,945.75,Debit Card,Returned,7
+ORD0070,2025-10-12,CUST093,Wireless Mouse,Electronics,Warangal,Telangana,Store,5,599,0,2995.0,1600,1395.0,Cash on Delivery,Delivered,9
+ORD0265,2025-10-12,CUST046,Backpack,Lifestyle,Hyderabad,Telangana,Website,4,1799,0,7196.0,3800,3396.0,Debit Card,Delivered,7
+ORD0079,2025-10-13,CUST049,Desk Lamp,Furniture,Chennai,Tamil Nadu,Store,5,1299,15,5520.75,3500,2020.75,Cash on Delivery,Cancelled,5
+ORD0112,2025-10-13,CUST069,Office Chair,Furniture,Hyderabad,Telangana,Website,1,5499,10,4949.1,3600,1349.1,Cash on Delivery,Delivered,6
+ORD0259,2025-10-16,CUST095,Laptop Stand,Accessories,Pune,Maharashtra,Mobile App,5,899,10,4045.5,2100,1945.5,UPI,Shipped,9
+ORD0180,2025-10-18,CUST048,Wireless Mouse,Electronics,Delhi,Delhi,Store,5,599,0,2995.0,1600,1395.0,UPI,Delivered,3
+ORD0296,2025-10-19,CUST091,Office Chair,Furniture,Bengaluru,Karnataka,Marketplace,5,5499,5,26120.25,18000,8120.25,Debit Card,Delivered,5
+ORD0192,2025-10-20,CUST070,Desk Lamp,Furniture,Delhi,Delhi,Marketplace,5,1299,0,6495.0,3500,2995.0,Debit Card,Returned,8
+ORD0212,2025-10-21,CUST038,Backpack,Lifestyle,Pune,Maharashtra,Website,4,1799,10,6476.4,3800,2676.4,Debit Card,Delivered,2
+ORD0187,2025-10-22,CUST060,Bluetooth Speaker,Electronics,Warangal,Telangana,Marketplace,2,1499,5,2848.1,1700,1148.1,Credit Card,Shipped,9
+ORD0064,2025-10-22,CUST089,Desk Lamp,Furniture,Warangal,Telangana,Mobile App,4,1299,0,5196.0,2800,2396.0,UPI,Cancelled,5
+ORD0044,2025-10-23,CUST067,Laptop Stand,Accessories,Mumbai,Maharashtra,Mobile App,3,899,0,2697.0,1260,1437.0,Debit Card,Delivered,7
+ORD0300,2025-10-25,CUST069,Wireless Mouse,Electronics,Pune,Maharashtra,Store,1,599,10,539.1,320,219.1,Credit Card,Delivered,7
+ORD0154,2025-10-26,CUST077,USB-C Cable,Accessories,Mumbai,Maharashtra,Website,3,299,5,852.15,330,522.15,Debit Card,Delivered,9
+ORD0037,2025-10-26,CUST040,Backpack,Lifestyle,Bengaluru,Karnataka,Marketplace,2,1799,10,3238.2,1900,1338.2,UPI,Delivered,6
+ORD0247,2025-10-27,CUST043,Keyboard,Electronics,Bengaluru,Karnataka,Mobile App,4,999,5,3796.2,2240,1556.2,Cash on Delivery,Delivered,4
+ORD0286,2025-10-28,CUST023,Bluetooth Speaker,Electronics,Delhi,Delhi,Marketplace,3,1499,5,4272.15,2550,1722.15,UPI,Cancelled,3
+ORD0080,2025-10-29,CUST095,Desk Lamp,Furniture,Hyderabad,Telangana,Website,3,1299,15,3312.45,2100,1212.45,Credit Card,Cancelled,4
+ORD0295,2025-10-29,CUST018,Office Chair,Furniture,Bengaluru,Karnataka,Mobile App,5,5499,10,24745.5,18000,6745.5,Credit Card,Cancelled,1
+ORD0238,2025-10-30,CUST045,USB-C Cable,Accessories,Delhi,Delhi,Store,4,299,15,1016.6,440,576.6,Debit Card,Delivered,7
+ORD0288,2025-11-02,CUST063,USB-C Cable,Accessories,Mumbai,Maharashtra,Mobile App,5,299,10,1345.5,550,795.5,Credit Card,Delivered,8
+ORD0176,2025-11-05,CUST011,USB-C Cable,Accessories,Pune,Maharashtra,Marketplace,5,299,5,1420.25,550,870.25,Debit Card,Delivered,5
+ORD0034,2025-11-06,CUST063,Laptop Stand,Accessories,Vijayawada,Andhra Pradesh,Marketplace,3,899,0,2697.0,1260,1437.0,UPI,Cancelled,2
+ORD0086,2025-11-06,CUST074,Notebook Set,Stationery,Chennai,Tamil Nadu,Website,1,249,0,249.0,90,159.0,Debit Card,Returned,1
+ORD0127,2025-11-06,CUST058,Desk Lamp,Furniture,Chennai,Tamil Nadu,Mobile App,1,1299,0,1299.0,700,599.0,Cash on Delivery,Shipped,6
+ORD0225,2025-11-07,CUST086,Office Chair,Furniture,Delhi,Delhi,Mobile App,4,5499,15,18696.6,14400,4296.6,Credit Card,Cancelled,2
+ORD0179,2025-11-08,CUST083,Water Bottle,Lifestyle,Warangal,Telangana,Marketplace,1,499,0,499.0,180,319.0,Debit Card,Delivered,7
+ORD0159,2025-11-09,CUST061,Notebook Set,Stationery,Chennai,Tamil Nadu,Mobile App,4,249,0,996.0,360,636.0,Debit Card,Delivered,8
+ORD0149,2025-11-11,CUST071,Keyboard,Electronics,Delhi,Delhi,Website,5,999,10,4495.5,2800,1695.5,Cash on Delivery,Cancelled,4
+ORD0109,2025-11-14,CUST057,Notebook Set,Stationery,Hyderabad,Telangana,Website,2,249,0,498.0,180,318.0,Debit Card,Delivered,3
+ORD0114,2025-11-14,CUST009,Backpack,Lifestyle,Chennai,Tamil Nadu,Store,3,1799,15,4587.45,2850,1737.45,Debit Card,Returned,7
+ORD0133,2025-11-15,CUST024,Keyboard,Electronics,Vijayawada,Andhra Pradesh,Marketplace,5,999,0,4995.0,2800,2195.0,Debit Card,Delivered,6
+ORD0091,2025-11-17,CUST017,Water Bottle,Lifestyle,Vijayawada,Andhra Pradesh,Marketplace,1,499,0,499.0,180,319.0,Cash on Delivery,Cancelled,8
+ORD0035,2025-11-21,CUST017,Desk Lamp,Furniture,Hyderabad,Telangana,Marketplace,3,1299,0,3897.0,2100,1797.0,Credit Card,Delivered,8
+ORD0261,2025-11-21,CUST071,Notebook Set,Stationery,Chennai,Tamil Nadu,Store,4,249,10,896.4,360,536.4,Cash on Delivery,Delivered,3
+ORD0190,2025-11-22,CUST069,Backpack,Lifestyle,Vijayawada,Andhra Pradesh,Website,3,1799,0,5397.0,2850,2547.0,Credit Card,Cancelled,3
+ORD0105,2025-11-23,CUST037,Notebook Set,Stationery,Hyderabad,Telangana,Mobile App,4,249,5,946.2,360,586.2,UPI,Shipped,8
+ORD0188,2025-11-24,CUST008,Keyboard,Electronics,Mumbai,Maharashtra,Website,2,999,0,1998.0,1120,878.0,Credit Card,Cancelled,5
+ORD0001,2025-11-24,CUST018,Bluetooth Speaker,Electronics,Chennai,Tamil Nadu,Website,1,1499,5,1424.05,850,574.05,UPI,Delivered,7
+ORD0283,2025-11-24,CUST076,Desk Lamp,Furniture,Chennai,Tamil Nadu,Store,4,1299,0,5196.0,2800,2396.0,Cash on Delivery,Shipped,1
+ORD0224,2025-11-24,CUST018,Notebook Set,Stationery,Chennai,Tamil Nadu,Store,3,249,15,634.95,270,364.95,Credit Card,Delivered,8
+ORD0042,2025-11-25,CUST015,Backpack,Lifestyle,Pune,Maharashtra,Marketplace,4,1799,15,6116.6,3800,2316.6,Credit Card,Delivered,5
+ORD0161,2025-11-25,CUST067,Water Bottle,Lifestyle,Warangal,Telangana,Website,3,499,15,1272.45,540,732.45,Debit Card,Returned,2
+ORD0145,2025-11-27,CUST026,USB-C Cable,Accessories,Bengaluru,Karnataka,Mobile App,2,299,0,598.0,220,378.0,Credit Card,Delivered,2
+ORD0216,2025-12-01,CUST037,Water Bottle,Lifestyle,Vijayawada,Andhra Pradesh,Website,4,499,0,1996.0,720,1276.0,UPI,Delivered,4
+ORD0206,2025-12-02,CUST062,Keyboard,Electronics,Hyderabad,Telangana,Mobile App,5,999,0,4995.0,2800,2195.0,Cash on Delivery,Cancelled,3
+ORD0276,2025-12-03,CUST083,Office Chair,Furniture,Hyderabad,Telangana,Store,2,5499,15,9348.3,7200,2148.3,Debit Card,Cancelled,7
+ORD0250,2025-12-09,CUST030,Wireless Mouse,Electronics,Bengaluru,Karnataka,Website,1,599,10,539.1,320,219.1,Credit Card,Returned,1
+ORD0113,2025-12-11,CUST087,Notebook Set,Stationery,Pune,Maharashtra,Mobile App,5,249,10,1120.5,450,670.5,Cash on Delivery,Delivered,1
+ORD0262,2025-12-15,CUST092,Keyboard,Electronics,Vijayawada,Andhra Pradesh,Website,4,999,0,3996.0,2240,1756.0,UPI,Delivered,5
+ORD0012,2025-12-15,CUST077,Desk Lamp,Furniture,Mumbai,Maharashtra,Store,5,1299,0,6495.0,3500,2995.0,Debit Card,Shipped,9
+ORD0207,2025-12-15,CUST003,Laptop Stand,Accessories,Warangal,Telangana,Store,1,899,15,764.15,420,344.15,Debit Card,Delivered,7
+ORD0184,2025-12-16,CUST021,Office Chair,Furniture,Vijayawada,Andhra Pradesh,Mobile App,3,5499,0,16497.0,10800,5697.0,Debit Card,Delivered,9
+ORD0065,2025-12-17,CUST069,Keyboard,Electronics,Hyderabad,Telangana,Store,1,999,15,849.15,560,289.15,Debit Card,Delivered,2
+ORD0083,2025-12-18,CUST015,Laptop Stand,Accessories,Chennai,Tamil Nadu,Mobile App,3,899,15,2292.45,1260,1032.45,Credit Card,Shipped,5
+ORD0129,2025-12-18,CUST056,Water Bottle,Lifestyle,Warangal,Telangana,Website,1,499,0,499.0,180,319.0,Debit Card,Delivered,3
+ORD0018,2025-12-20,CUST067,Laptop Stand,Accessories,Pune,Maharashtra,Store,3,899,10,2427.3,1260,1167.3,UPI,Shipped,4
+ORD0074,2025-12-20,CUST093,USB-C Cable,Accessories,Delhi,Delhi,Marketplace,2,299,0,598.0,220,378.0,UPI,Delivered,4
+ORD0223,2025-12-21,CUST021,Laptop Stand,Accessories,Delhi,Delhi,Store,1,899,0,899.0,420,479.0,Debit Card,Delivered,2
+ORD0089,2025-12-22,CUST012,Water Bottle,Lifestyle,Hyderabad,Telangana,Marketplace,3,499,10,1347.3,540,807.3,Debit Card,Shipped,6
+ORD0183,2025-12-22,CUST058,Water Bottle,Lifestyle,Bengaluru,Karnataka,Mobile App,2,499,0,998.0,360,638.0,Cash on Delivery,Delivered,2
+ORD0063,2025-12-25,CUST040,Notebook Set,Stationery,Warangal,Telangana,Website,3,249,0,747.0,270,477.0,UPI,Delivered,5
+ORD0040,2025-12-26,CUST026,Bluetooth Speaker,Electronics,Delhi,Delhi,Store,4,1499,0,5996.0,3400,2596.0,Debit Card,Delivered,5
+ORD0256,2025-12-26,CUST043,USB-C Cable,Accessories,Mumbai,Maharashtra,Website,1,299,10,269.1,110,159.1,UPI,Returned,4
+ORD0284,2025-12-27,CUST014,Laptop Stand,Accessories,Warangal,Telangana,Mobile App,2,899,5,1708.1,840,868.1,Debit Card,Cancelled,6
+ORD0006,2025-12-27,CUST030,Bluetooth Speaker,Electronics,Vijayawada,Andhra Pradesh,Website,1,1499,0,1499.0,850,649.0,Cash on Delivery,Delivered,5
+ORD0165,2025-12-28,CUST003,Water Bottle,Lifestyle,Hyderabad,Telangana,Marketplace,4,499,15,1696.6,720,976.6,Credit Card,Delivered,3
+ORD0273,2025-12-29,CUST087,Laptop Stand,Accessories,Warangal,Telangana,Store,4,899,5,3416.2,1680,1736.2,Credit Card,Shipped,5
+ORD0240,2025-12-29,CUST072,USB-C Cable,Accessories,Mumbai,Maharashtra,Mobile App,4,299,0,1196.0,440,756.0,Cash on Delivery,Shipped,4
